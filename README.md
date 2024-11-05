@@ -9,4 +9,4 @@
 ![라인+버블그래프](linebubble.png)
 
 ## 3. 고객 세그먼트 별 매출액 누적 막대 그래프
-![누적막대그래프](segmentbar.png) 
+![누적막대그래프](segmentbar2.png) 
